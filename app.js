@@ -132,3 +132,9 @@ for (let i = 0; i < people.length; i++) {
 
 
 
+function divideWholey(x, y) {
+  if (x % y) !== 0; {
+    return Math.round(x / y);
+  }
+  return (x / y)
+}
