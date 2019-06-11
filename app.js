@@ -7,6 +7,10 @@ let chewyGranolaBar = {
   'ingredient6': 'sugar',
   'ingredient7': 'cornSyrupSolids',
   'ingredient8': 'glycerin',
-  'ingredient9': 'soybeanOil',
+  'ingredient9': 'soybeanOil'
 };
 console.log(chewyGranolaBar)
+
+
+let property = "ingredient1"
+chewyGranolaBar[property]
